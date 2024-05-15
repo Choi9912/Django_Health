@@ -2,6 +2,11 @@
 - 프로젝트 기간 : 2022.10.18~2022.12.14
 - 멤버 : 최규성, 김소명, 오우준, 이민석
 
+# 파일명
+- accounts : 로그인 및 회원가입
+- blog : 게시판 기능
+- bmi : bmi 계산기, bmi 기록 그래프, 칼로리 계산기
+  
 # Stack
 ## Enviroment
 <img src="https://img.shields.io/badge/Pycharm-E34F26?style=for-the-badge&logo=Pycharm&logoColor=white">  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
