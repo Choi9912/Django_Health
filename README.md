@@ -31,11 +31,11 @@
 
 ## 화면 구성 📺
 
-| 메인 페이지 | 주식 예측 프로그램 |
+| 메인 페이지 | bmi 계산기 |
 | --- | --- |
 | ![health_메인](https://github.com/Choi9912/Django_health/assets/76863081/f4a15155-700d-41af-9933-a754dccedc2d) | ![health_bmi](https://github.com/Choi9912/Django_health/assets/76863081/ed40cf1f-ca00-4677-9450-c509384cc6dd) |
 
-| Health 추천 | 웹 스크래핑 |
+| 웹 스크래핑 | Health 추천 |
 | --- | --- |
 | ![health_추천](https://github.com/Choi9912/Django_health/assets/76863081/8f6d0975-20b9-4031-821a-9d30e54a924d) | ![health_웹 스크래핑](https://github.com/Choi9912/Django_health/assets/76863081/4d5ee3c6-5d86-49f8-b585-c5a140528175) |
 
