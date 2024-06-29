@@ -14,19 +14,13 @@
   - 건강 관련 영상 스크래핑, 운동 경력에 따른 보충제 추천
    
 ## Stack
-**Enviroment**  
-
-
+**Enviroment**  </br>
 <img src="https://img.shields.io/badge/Pycharm-E34F26?style=for-the-badge&logo=Pycharm&logoColor=white">  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-**Config**  
-
-
+**Config** </br> 
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> 
 
-**Development** 
-
-
+**Development** </br>
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> 
 
 ## 화면 구성 📺
